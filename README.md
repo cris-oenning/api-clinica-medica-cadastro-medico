@@ -36,17 +36,21 @@ spring.datasource.password=sua_senha
 ## Funcionalidades da API
 
 * Cadastro de Médicos (POST)
+
 Todas as informações são obrigatórias, exceto "número" e "complemento" do endereço.
 O e-mail, CRM e especialidade não podem ser alterados posteriormente.
 
 * Listagem de Médicos (GET)
+
 A lista é ordenada pelo nome do médico em ordem crescente.
 
 * Atualização de Médicos (PUT)
+
 Apenas o nome, telefone e endereço podem ser atualizados.
 E-mail, CRM e especialidade não podem ser alterados.
 
 * Exclusão de Médicos (DELETE)
+
 A exclusão não apaga os dados do médico, apenas marca-o como "inativo" no sistema.
 
 ## Executando a Aplicação

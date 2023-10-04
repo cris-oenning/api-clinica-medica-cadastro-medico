@@ -59,5 +59,7 @@ Este README fornece uma visão geral completa do projeto da API de cadastro de m
 ## Contatos
 
 • E-mail: crisoenning@gmail.com
+
 • Instagram: instagram.com/cristopher_oenning
+
 • Github: github.com/cris-oenning
